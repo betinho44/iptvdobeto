@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="The History Channel HD">
     <display-name lang="pt">The History Channel HD</display-name>
-    <url>http://www.clarotv.com.br</url>
+    <icon src="http://www.lineup.tv.br/canais/history.gif" />
+    <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="H2 HD">
     <display-name lang="pt">H2 HD</display-name>
@@ -33,8 +34,821 @@
   </channel>
   <channel id="FX HD">
     <display-name lang="pt">FX HD</display-name>
-    <url>http://www.netcombo.com.br</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
+  <programme start="20180702001500 -0300" stop="20180702004000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S15E344</title>
+    <desc lang="pt">O pessoal de Trato Feito quase sai voando com uma carta de Eddie Rickenbacker, piloto da Segunda Guerra Mundial. Rick fica empolgado com alguns cartazes do filme "Fugindo do Inferno" e o pessoal debocha por ele ter uma queda pelo Steve McQueen!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702004000 -0300" stop="20180702013500 -0300" channel="The History Channel HD">
+    <title lang="pt">Contato Extraterrestre - S1E9</title>
+    <desc lang="pt">Você vai se surpreender com os testemunhos de contato direto com seres de outros planetas. Um soldado no Chile, diante da surpresa de seus colegas, desaparece e reaparece minutos depois, com a barba crescida e dizendo coisas sem nexo(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702013500 -0300" stop="20180702023000 -0300" channel="The History Channel HD">
+    <title lang="pt">Decifrando Milagres - S2E17</title>
+    <desc lang="pt">Fidel Marcos Rojas, ex-prefeito colombiano, começou a sofrer do mal de Parkinson depois de tomar um medicamento vencido. Em desespero, ele rezou para João Paulo II pedindo ajuda e, para sua surpresa, os sintomas desapareceram(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702023000 -0300" stop="20180702025200 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S15E344</title>
+    <desc lang="pt">O pessoal de Trato Feito quase sai voando com uma carta de Eddie Rickenbacker, piloto da Segunda Guerra Mundial. Rick fica empolgado com alguns cartazes do filme "Fugindo do Inferno" e o pessoal debocha por ele ter uma queda pelo Steve McQueen!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702025200 -0300" stop="20180702031500 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S15E345</title>
+    <desc lang="pt">O pessoal checa dois aparelhos de telefone antigos e Rick descobre uma tigela de porcelana rara da dinastia Ch'ien-lung. Mais tarde, Chumlee se recusa a ir para casa apesar de não estar se sentindo bem(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702031500 -0300" stop="20180702033700 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S10E190</title>
+    <desc lang="pt">Depois de um passeio em um carro Hudson Commodore de 1949, Rick avalia a possibilidade de comprar esta relíquia do automobilismo da era pós-guerra. Quando um sujeito traz um acendedor de 2.000 anos, Chumlee é desafiado a acender fogo à moda antiga(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702033700 -0300" stop="20180702040000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito: Honre teu Pai E101</title>
+    <desc lang="pt">As Estrelas do Penhor vão declarar sua independência quando um documento assinado pelo pai da nação, John Hancock, entrar na loja. E depois, vamos comemorar com Rick o Dia dos Pais, com um presente especial para o avô(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702040000 -0300" stop="20180702042200 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito: O Cofre do Tesouro E15</title>
+    <desc lang="pt">Os rapazes na loja terão a oportunidade de comprar um cofre antigo, que ninguém consegue abrir, embora o que ele contenha possa fazer a diferença(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702042200 -0300" stop="20180702044500 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito: A Aposta Do Velho E14</title>
+    <desc lang="pt">Quando um velho motociclista leva até a loja uma clássica Harley Davidson de 1982, Chumlee decide que quer comprá-la para si mesmo, mas poderá conseguir o dinheiro antes que ela seja vendida?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702044500 -0300" stop="20180702050700 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito E220</title>
+    <desc lang="pt">Desta vez, Rick vai bisbilhotar uma conversa telefônica do presidente John F. Kennedy, gravada num momento raro em que JFK estava com raiva. Depois, quando um cliente traz um macacão de voo de um F16, as expectativas dos rapazes vão às alturas(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702050700 -0300" stop="20180702053000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito E223</title>
+    <desc lang="pt">Os rapazes se preparam para um nocaute nas negociações por um par de sacos de pancada usados por Rocky Marciano, único campeão invicto em sua carreira. Corey instala um saco de pancada no armazém, o avô se inspira e mostra suas habilidades no boxe(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702053000 -0300" stop="20180702060000 -0300" channel="The History Channel HD">
+    <title lang="pt">Caça, Restaura e Negocia: Trato Feito E2</title>
+    <desc lang="pt">Caçadores de Relíquias, Mestres da Restauração e Trato Feito estarão reunidos neste especial, onde vão unir suas forças e sua grande habilidade para encontrar e restaurar o presente de aniversário de Richard Harrison(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702060000 -0300" stop="20180702070000 -0300" channel="The History Channel HD">
+    <title lang="pt">Contato Extraterrestre - S1E9</title>
+    <desc lang="pt">Você vai se surpreender com os testemunhos de contato direto com seres de outros planetas. Um soldado no Chile, diante da surpresa de seus colegas, desaparece e reaparece minutos depois, com a barba crescida e dizendo coisas sem nexo(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702070000 -0300" stop="20180702080000 -0300" channel="The History Channel HD">
+    <title lang="pt">Decifrando Milagres - S2E17</title>
+    <desc lang="pt">Fidel Marcos Rojas, ex-prefeito colombiano, começou a sofrer do mal de Parkinson depois de tomar um medicamento vencido. Em desespero, ele rezou para João Paulo II pedindo ajuda e, para sua surpresa, os sintomas desapareceram(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702080000 -0300" stop="20180702083000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S15E344</title>
+    <desc lang="pt">O pessoal de Trato Feito quase sai voando com uma carta de Eddie Rickenbacker, piloto da Segunda Guerra Mundial. Rick fica empolgado com alguns cartazes do filme "Fugindo do Inferno" e o pessoal debocha por ele ter uma queda pelo Steve McQueen!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702083000 -0300" stop="20180702090000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S15E345</title>
+    <desc lang="pt">O pessoal checa dois aparelhos de telefone antigos e Rick descobre uma tigela de porcelana rara da dinastia Ch'ien-lung. Mais tarde, Chumlee se recusa a ir para casa apesar de não estar se sentindo bem(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702090000 -0300" stop="20180702093000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S10E190</title>
+    <desc lang="pt">Depois de um passeio em um carro Hudson Commodore de 1949, Rick avalia a possibilidade de comprar esta relíquia do automobilismo da era pós-guerra. Quando um sujeito traz um acendedor de 2.000 anos, Chumlee é desafiado a acender fogo à moda antiga(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702093000 -0300" stop="20180702100000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito: Honre teu Pai E101</title>
+    <desc lang="pt">As Estrelas do Penhor vão declarar sua independência quando um documento assinado pelo pai da nação, John Hancock, entrar na loja. E depois, vamos comemorar com Rick o Dia dos Pais, com um presente especial para o avô(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702100000 -0300" stop="20180702103000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito: O Cofre do Tesouro E15</title>
+    <desc lang="pt">Os rapazes na loja terão a oportunidade de comprar um cofre antigo, que ninguém consegue abrir, embora o que ele contenha possa fazer a diferença(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702103000 -0300" stop="20180702110000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito: A Aposta Do Velho E14</title>
+    <desc lang="pt">Quando um velho motociclista leva até a loja uma clássica Harley Davidson de 1982, Chumlee decide que quer comprá-la para si mesmo, mas poderá conseguir o dinheiro antes que ela seja vendida?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702110000 -0300" stop="20180702113000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito E220</title>
+    <desc lang="pt">Desta vez, Rick vai bisbilhotar uma conversa telefônica do presidente John F. Kennedy, gravada num momento raro em que JFK estava com raiva. Depois, quando um cliente traz um macacão de voo de um F16, as expectativas dos rapazes vão às alturas(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702113000 -0300" stop="20180702120000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito E223</title>
+    <desc lang="pt">Os rapazes se preparam para um nocaute nas negociações por um par de sacos de pancada usados por Rocky Marciano, único campeão invicto em sua carreira. Corey instala um saco de pancada no armazém, o avô se inspira e mostra suas habilidades no boxe(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702120000 -0300" stop="20180702130000 -0300" channel="The History Channel HD">
+    <title lang="pt">Contato Extraterrestre - S1E9</title>
+    <desc lang="pt">Você vai se surpreender com os testemunhos de contato direto com seres de outros planetas. Um soldado no Chile, diante da surpresa de seus colegas, desaparece e reaparece minutos depois, com a barba crescida e dizendo coisas sem nexo(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702130000 -0300" stop="20180702140000 -0300" channel="The History Channel HD">
+    <title lang="pt">Decifrando Milagres - S2E17</title>
+    <desc lang="pt">Fidel Marcos Rojas, ex-prefeito colombiano, começou a sofrer do mal de Parkinson depois de tomar um medicamento vencido. Em desespero, ele rezou para João Paulo II pedindo ajuda e, para sua surpresa, os sintomas desapareceram(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702140000 -0300" stop="20180702143000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S10E190</title>
+    <desc lang="pt">Depois de um passeio em um carro Hudson Commodore de 1949, Rick avalia a possibilidade de comprar esta relíquia do automobilismo da era pós-guerra. Quando um sujeito traz um acendedor de 2.000 anos, Chumlee é desafiado a acender fogo à moda antiga(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702143000 -0300" stop="20180702150000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito: Honre teu Pai E101</title>
+    <desc lang="pt">As Estrelas do Penhor vão declarar sua independência quando um documento assinado pelo pai da nação, John Hancock, entrar na loja. E depois, vamos comemorar com Rick o Dia dos Pais, com um presente especial para o avô(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702150000 -0300" stop="20180702153000 -0300" channel="The History Channel HD">
+    <title lang="pt">O Melhor de... Louco Por Carros - S5E10</title>
+    <desc lang="pt">O impossível torna-se realidade: um helicóptero feito sob medida para um piloto sem perna. Além disso, Rick traz um pedaço de ferro-velho para que Danny o converta em uma réplica do Mustang de Steve McQueen em Bullitt(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702153000 -0300" stop="20180702160000 -0300" channel="The History Channel HD">
+    <title lang="pt">O Melhor de... Louco Por Carros - S5E11</title>
+    <desc lang="pt">Os melhores trabalhos de pintura na história de Louco por Carros: a partir da transformação de uma caminhonete de Rob Zombie, até uma obra de arte em uma Harley inspirada pela tatuagem do próprio proprietário(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702160000 -0300" stop="20180702163000 -0300" channel="The History Channel HD">
+    <title lang="pt">Louco Por Carros - S5E106</title>
+    <desc lang="pt">O renomado serviço de hambúrguer contrata os serviços de Danny para celebrar seu 75º aniversário. Mas a liberdade artística e o grande orçamento pode ser fatal para o restaurador de carros. Construirá o Corvette de seus sonhos?(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702163000 -0300" stop="20180702170000 -0300" channel="The History Channel HD">
+    <title lang="pt">Louco Por Carros - S5E107</title>
+    <desc lang="pt">O ex-guitarrista do Guns &amp; Roses, Dj Ashba, vai à oficina de Loucos por Carros para fazer uma completa transformação em seu Lamborghini Murcielago 2004, mas Danny tem que ter a certeza de que a esposa de DJ fique feliz com a mudança(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702170000 -0300" stop="20180702173000 -0300" channel="The History Channel HD">
+    <title lang="pt">Louco Por Carros - S5E108</title>
+    <desc lang="pt">Danny tem a intenção de reformar uma Pick Up Chevy C10 de 1971 e obter um lucro suculento. Mas um erro durante a fase de pintura ameaça alterar completamente o orçamento e seus dividendos(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702173000 -0300" stop="20180702180000 -0300" channel="The History Channel HD">
+    <title lang="pt">Louco Por Carros - S5E109</title>
+    <desc lang="pt">O amor de Danny pelo Chevrolet El Camino o leva a restaurar um modelo de 1975, mas para obter um bom lucro, a equipe de Loucos por Carros deve colocar de lado suas diferenças(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702180000 -0300" stop="20180702190000 -0300" channel="The History Channel HD">
+    <title lang="pt">Máquinas do Tempo - S1E5</title>
+    <desc lang="pt">Rutledge e George bolam o plano especial de transformar um AMC Eagle, uma perua dos anos 80, em um carro de racha rebaixado. E Rutledge tenta comprar uma camioneta Ford F1 anos 50 que já vem namorando há anos(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702190000 -0300" stop="20180702192800 -0300" channel="The History Channel HD">
+    <title lang="pt">Duelo de Craques - S1E1</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702192800 -0300" stop="20180702195500 -0300" channel="The History Channel HD">
+    <title lang="pt">Duelo de Craques - S1E2</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702195500 -0300" stop="20180702202300 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito: Pacificador E100</title>
+    <desc lang="pt">Uma Colt 45 "Pacificadora", de 1890, vai dar um passeio pela loja. Então, Rick vai conhecer um homem que veio até eles com a esperança de vender suas fotos de um Zero japonês, abatido no Alasca durante a Segunda Guerra Mundial(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180702202300 -0300" stop="20180702205000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S6E110</title>
+    <desc lang="pt">Um homem traz um fuzil da Guerra Civil, pertencente a um antepassado que foi ferido em batalha. Corey vai ter problemas depois de vender um pôster de filme que pertencia à coleção particular de seu pai(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702205000 -0300" stop="20180702214500 -0300" channel="The History Channel HD">
+    <title lang="pt">Desafio Sob Fogo - S4E13</title>
+    <desc lang="pt">Os ferreiros lutam contra o tempo para fabricar a melhora Bowie com guarda em D, mas apenas dois poderão forjar a mortal Shamshir(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702214500 -0300" stop="20180702221300 -0300" channel="The History Channel HD">
+    <title lang="pt">Louco Por Carros - S5E106</title>
+    <desc lang="pt">O renomado serviço de hambúrguer contrata os serviços de Danny para celebrar seu 75º aniversário. Mas a liberdade artística e o grande orçamento pode ser fatal para o restaurador de carros. Construirá o Corvette de seus sonhos?(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702221300 -0300" stop="20180702224000 -0300" channel="The History Channel HD">
+    <title lang="pt">Louco Por Carros - S5E107</title>
+    <desc lang="pt">O ex-guitarrista do Guns &amp; Roses, Dj Ashba, vai à oficina de Loucos por Carros para fazer uma completa transformação em seu Lamborghini Murcielago 2004, mas Danny tem que ter a certeza de que a esposa de DJ fique feliz com a mudança(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702224000 -0300" stop="20180702230800 -0300" channel="The History Channel HD">
+    <title lang="pt">Louco Por Carros - S5E108</title>
+    <desc lang="pt">Danny tem a intenção de reformar uma Pick Up Chevy C10 de 1971 e obter um lucro suculento. Mas um erro durante a fase de pintura ameaça alterar completamente o orçamento e seus dividendos(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702230800 -0300" stop="20180702233500 -0300" channel="The History Channel HD">
+    <title lang="pt">Louco Por Carros - S5E109</title>
+    <desc lang="pt">O amor de Danny pelo Chevrolet El Camino o leva a restaurar um modelo de 1975, mas para obter um bom lucro, a equipe de Loucos por Carros deve colocar de lado suas diferenças(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180702233500 -0300" stop="20180703003000 -0300" channel="The History Channel HD">
+    <title lang="pt">A Garagem de Jay Leno - S3E8</title>
+    <desc lang="pt">O amor pelos carros pode se manifestar de distintas maneiras: adrenalina, nostalgia, orgulho e alegria, este episódio tem tudo isso!(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703003000 -0300" stop="20180703013000 -0300" channel="The History Channel HD">
+    <title lang="pt">A Bíblia Proibida E7</title>
+    <desc lang="pt">As escrituras proibidas... Revelaremos os textos censurados que fazem tremer a estrutura do Vaticano. Qual é a informação que a Igreja oculta e que poderia provocar uma revolução espiritual?(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180703013000 -0300" stop="20180703023000 -0300" channel="The History Channel HD">
+    <title lang="pt">Estradas Mortais - S9E114</title>
+    <desc lang="pt">Um dos caminhões de Lisa e Darrell quebra e a companhia corre perigo. Mike paga o preço de sua inexperiência e Todd volta centenas de quilômetros para recuperar sua carga. Máximo risco para Art: ele deve lutar contra o gelo para salvar sua vida(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703023000 -0300" stop="20180703031500 -0300" channel="The History Channel HD">
+    <title lang="pt">Máquinas do Tempo - S1E5</title>
+    <desc lang="pt">Rutledge e George bolam o plano especial de transformar um AMC Eagle, uma perua dos anos 80, em um carro de racha rebaixado. E Rutledge tenta comprar uma camioneta Ford F1 anos 50 que já vem namorando há anos(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703031500 -0300" stop="20180703033700 -0300" channel="The History Channel HD">
+    <title lang="pt">Duelo de Craques - S1E1</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180703033700 -0300" stop="20180703040000 -0300" channel="The History Channel HD">
+    <title lang="pt">Duelo de Craques - S1E2</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180703040000 -0300" stop="20180703042200 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito: Pacificador E100</title>
+    <desc lang="pt">Uma Colt 45 "Pacificadora", de 1890, vai dar um passeio pela loja. Então, Rick vai conhecer um homem que veio até eles com a esperança de vender suas fotos de um Zero japonês, abatido no Alasca durante a Segunda Guerra Mundial(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180703042200 -0300" stop="20180703044500 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S6E110</title>
+    <desc lang="pt">Um homem traz um fuzil da Guerra Civil, pertencente a um antepassado que foi ferido em batalha. Corey vai ter problemas depois de vender um pôster de filme que pertencia à coleção particular de seu pai(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703044500 -0300" stop="20180703053000 -0300" channel="The History Channel HD">
+    <title lang="pt">Desafio Sob Fogo - S4E1</title>
+    <desc lang="pt">Pela primeira vez, a competição será juiz contra juiz. Os quatro juízes vão escolher um ferreiro para representá-los na batalha final pela supremacia. Os ferreiros vão ter que usar aço das ruas da cidade de Nova York para criar uma lâmina(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703053000 -0300" stop="20180703060000 -0300" channel="The History Channel HD">
+    <title lang="pt">Louco Por Carros - S5E106</title>
+    <desc lang="pt">O renomado serviço de hambúrguer contrata os serviços de Danny para celebrar seu 75º aniversário. Mas a liberdade artística e o grande orçamento pode ser fatal para o restaurador de carros. Construirá o Corvette de seus sonhos?(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703060000 -0300" stop="20180703070000 -0300" channel="The History Channel HD">
+    <title lang="pt">A Bíblia Proibida E7</title>
+    <desc lang="pt">As escrituras proibidas... Revelaremos os textos censurados que fazem tremer a estrutura do Vaticano. Qual é a informação que a Igreja oculta e que poderia provocar uma revolução espiritual?(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180703070000 -0300" stop="20180703080000 -0300" channel="The History Channel HD">
+    <title lang="pt">Estradas Mortais - S9E114</title>
+    <desc lang="pt">Um dos caminhões de Lisa e Darrell quebra e a companhia corre perigo. Mike paga o preço de sua inexperiência e Todd volta centenas de quilômetros para recuperar sua carga. Máximo risco para Art: ele deve lutar contra o gelo para salvar sua vida(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703080000 -0300" stop="20180703083000 -0300" channel="The History Channel HD">
+    <title lang="pt">Duelo de Craques - S1E1</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180703083000 -0300" stop="20180703090000 -0300" channel="The History Channel HD">
+    <title lang="pt">Duelo de Craques - S1E2</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180703090000 -0300" stop="20180703093000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito: Pacificador E100</title>
+    <desc lang="pt">Uma Colt 45 "Pacificadora", de 1890, vai dar um passeio pela loja. Então, Rick vai conhecer um homem que veio até eles com a esperança de vender suas fotos de um Zero japonês, abatido no Alasca durante a Segunda Guerra Mundial(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180703093000 -0300" stop="20180703100000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S6E110</title>
+    <desc lang="pt">Um homem traz um fuzil da Guerra Civil, pertencente a um antepassado que foi ferido em batalha. Corey vai ter problemas depois de vender um pôster de filme que pertencia à coleção particular de seu pai(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703100000 -0300" stop="20180703110000 -0300" channel="The History Channel HD">
+    <title lang="pt">Desafio Sob Fogo - S4E1</title>
+    <desc lang="pt">Pela primeira vez, a competição será juiz contra juiz. Os quatro juízes vão escolher um ferreiro para representá-los na batalha final pela supremacia. Os ferreiros vão ter que usar aço das ruas da cidade de Nova York para criar uma lâmina(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703110000 -0300" stop="20180703113000 -0300" channel="The History Channel HD">
+    <title lang="pt">Louco Por Carros - S5E106</title>
+    <desc lang="pt">O renomado serviço de hambúrguer contrata os serviços de Danny para celebrar seu 75º aniversário. Mas a liberdade artística e o grande orçamento pode ser fatal para o restaurador de carros. Construirá o Corvette de seus sonhos?(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703113000 -0300" stop="20180703120000 -0300" channel="The History Channel HD">
+    <title lang="pt">Louco Por Carros - S5E107</title>
+    <desc lang="pt">O ex-guitarrista do Guns &amp; Roses, Dj Ashba, vai à oficina de Loucos por Carros para fazer uma completa transformação em seu Lamborghini Murcielago 2004, mas Danny tem que ter a certeza de que a esposa de DJ fique feliz com a mudança(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703120000 -0300" stop="20180703130000 -0300" channel="The History Channel HD">
+    <title lang="pt">A Bíblia Proibida E7</title>
+    <desc lang="pt">As escrituras proibidas... Revelaremos os textos censurados que fazem tremer a estrutura do Vaticano. Qual é a informação que a Igreja oculta e que poderia provocar uma revolução espiritual?(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180703130000 -0300" stop="20180703140000 -0300" channel="The History Channel HD">
+    <title lang="pt">Estradas Mortais - S9E114</title>
+    <desc lang="pt">Um dos caminhões de Lisa e Darrell quebra e a companhia corre perigo. Mike paga o preço de sua inexperiência e Todd volta centenas de quilômetros para recuperar sua carga. Máximo risco para Art: ele deve lutar contra o gelo para salvar sua vida(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703140000 -0300" stop="20180703150000 -0300" channel="The History Channel HD">
+    <title lang="pt">Desafio Sob Fogo - S4E1</title>
+    <desc lang="pt">Pela primeira vez, a competição será juiz contra juiz. Os quatro juízes vão escolher um ferreiro para representá-los na batalha final pela supremacia. Os ferreiros vão ter que usar aço das ruas da cidade de Nova York para criar uma lâmina(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703150000 -0300" stop="20180703153000 -0300" channel="The History Channel HD">
+    <title lang="pt">Louco Por Carros - S5E106</title>
+    <desc lang="pt">O renomado serviço de hambúrguer contrata os serviços de Danny para celebrar seu 75º aniversário. Mas a liberdade artística e o grande orçamento pode ser fatal para o restaurador de carros. Construirá o Corvette de seus sonhos?(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703153000 -0300" stop="20180703160000 -0300" channel="The History Channel HD">
+    <title lang="pt">Louco Por Carros - S5E107</title>
+    <desc lang="pt">O ex-guitarrista do Guns &amp; Roses, Dj Ashba, vai à oficina de Loucos por Carros para fazer uma completa transformação em seu Lamborghini Murcielago 2004, mas Danny tem que ter a certeza de que a esposa de DJ fique feliz com a mudança(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703160000 -0300" stop="20180703163000 -0300" channel="The History Channel HD">
+    <title lang="pt">Louco Por Carros - S5E108</title>
+    <desc lang="pt">Danny tem a intenção de reformar uma Pick Up Chevy C10 de 1971 e obter um lucro suculento. Mas um erro durante a fase de pintura ameaça alterar completamente o orçamento e seus dividendos(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703163000 -0300" stop="20180703170000 -0300" channel="The History Channel HD">
+    <title lang="pt">Louco Por Carros - S5E109</title>
+    <desc lang="pt">O amor de Danny pelo Chevrolet El Camino o leva a restaurar um modelo de 1975, mas para obter um bom lucro, a equipe de Loucos por Carros deve colocar de lado suas diferenças(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703170000 -0300" stop="20180703180000 -0300" channel="The History Channel HD">
+    <title lang="pt">A Garagem de Jay Leno - S3E8</title>
+    <desc lang="pt">O amor pelos carros pode se manifestar de distintas maneiras: adrenalina, nostalgia, orgulho e alegria, este episódio tem tudo isso!(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703180000 -0300" stop="20180703183000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S12E241</title>
+    <desc lang="pt">Rick e o pai recebem uma coleção de discos de 1948 contendo aulas de educação sexual. Será que Rick terá coragem de ouvi-los na frente do pai? Depois, Corey e Chumlee conferem um "livro azul" do crime organizado, da Delegac ia Central de Las Vegas(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703183000 -0300" stop="20180703190000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S12E242</title>
+    <desc lang="pt">Vamos queimar pneus com Rick e Chumlee enquanto eles conferem um Camaro 1969 Z28 praticamente novo. Depois, chega à loja a primeira edição do livro de pontuações de beisebol, publicado por Harry Wright, "Pai do Beisebol Profissional", em 1.878(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703190000 -0300" stop="20180703192800 -0300" channel="The History Channel HD">
+    <title lang="pt">Duelo de Craques - S1E4</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180703192800 -0300" stop="20180703195500 -0300" channel="The History Channel HD">
+    <title lang="pt">Duelo de Craques - S1E3</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180703195500 -0300" stop="20180703202300 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S12E230</title>
+    <desc lang="pt">Neste episódio nossas estrelas do penhor vão conferir um objeto inédito: um assento sanitário do programa do Ônibus Espacial da NASA. E, mais tarde, o avô ocupa Chumlee em algumas missões tolas, mas quem será que vai rir por último?(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703202300 -0300" stop="20180703205000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S12E240</title>
+    <desc lang="pt">Nossas estrelas do penhor checam uma Honda Pilot ATV. Rick e Chumlee vão receber uma foto autografada rara dos Rolling Stones. E mais tarde, quando Chumlee traz seu peixinho de estimação para ficar na loja, o avô faz de tudo para se livrar dele(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703205000 -0300" stop="20180703214500 -0300" channel="The History Channel HD">
+    <title lang="pt">Desafio Sob Fogo - S4E1</title>
+    <desc lang="pt">Pela primeira vez, a competição será juiz contra juiz. Os quatro juízes vão escolher um ferreiro para representá-los na batalha final pela supremacia. Os ferreiros vão ter que usar aço das ruas da cidade de Nova York para criar uma lâmina(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703214500 -0300" stop="20180703224000 -0300" channel="The History Channel HD">
+    <title lang="pt">Desafio Sob Fogo - S4E2</title>
+    <desc lang="pt">Quatro participantes precisam buscar aço de um antigo clube de ouro para forjar suas armas. Em uma corrida contra o relógio e usando métodos não convencionais, dois concorrentes enfrentam ainda o desafio de forjar facas chifre de cervo(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703224000 -0300" stop="20180703233500 -0300" channel="The History Channel HD">
+    <title lang="pt">Desafio Sob Fogo - S4E3</title>
+    <desc lang="pt">Os competidores são desafiados desta vez a forjar não uma, mas duas lâminas na primeira rodada. Os ferreiros restantes têm cinco dias para criar uma espada de combate icônica do século XV - a Katzbalger(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180703233500 -0300" stop="20180704003000 -0300" channel="The History Channel HD">
+    <title lang="pt">Homens e Armas - S1E5</title>
+    <desc lang="pt">A civilização asteca foi uma das mais avançadas da história, mas também uma das mais sanguinárias no campo de batalha(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704003000 -0300" stop="20180704013000 -0300" channel="The History Channel HD">
+    <title lang="pt">Contato Extraterrestre - S1E7</title>
+    <desc lang="pt">Vários objetos são vistos no México, caindo em Puebla, e aparentemente não são aviões. Além disso, a dúvida cresce na fronteira entre Argentina e Bolívia(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180704013000 -0300" stop="20180704023000 -0300" channel="The History Channel HD">
+    <title lang="pt">Super Humanos E7</title>
+    <desc lang="pt">Gaby Castilho é uma desportista perfeita, consegue montar em uma bicicleta por uma quantidade de horas que para outros seria absolutamente impossível. Cláudio Luvizzotti é dono de uma memória que desafia tudo o que conhecemos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180704023000 -0300" stop="20180704025200 -0300" channel="The History Channel HD">
+    <title lang="pt">Duelo de Craques - S1E4</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180704025200 -0300" stop="20180704031500 -0300" channel="The History Channel HD">
+    <title lang="pt">Duelo de Craques - S1E3</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180704031500 -0300" stop="20180704033700 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S12E230</title>
+    <desc lang="pt">Neste episódio nossas estrelas do penhor vão conferir um objeto inédito: um assento sanitário do programa do Ônibus Espacial da NASA. E, mais tarde, o avô ocupa Chumlee em algumas missões tolas, mas quem será que vai rir por último?(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704033700 -0300" stop="20180704040000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S12E240</title>
+    <desc lang="pt">Nossas estrelas do penhor checam uma Honda Pilot ATV. Rick e Chumlee vão receber uma foto autografada rara dos Rolling Stones. E mais tarde, quando Chumlee traz seu peixinho de estimação para ficar na loja, o avô faz de tudo para se livrar dele(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704040000 -0300" stop="20180704044500 -0300" channel="The History Channel HD">
+    <title lang="pt">Desafio Sob Fogo - S4E1</title>
+    <desc lang="pt">Pela primeira vez, a competição será juiz contra juiz. Os quatro juízes vão escolher um ferreiro para representá-los na batalha final pela supremacia. Os ferreiros vão ter que usar aço das ruas da cidade de Nova York para criar uma lâmina(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704044500 -0300" stop="20180704053000 -0300" channel="The History Channel HD">
+    <title lang="pt">Desafio Sob Fogo - S4E2</title>
+    <desc lang="pt">Quatro participantes precisam buscar aço de um antigo clube de ouro para forjar suas armas. Em uma corrida contra o relógio e usando métodos não convencionais, dois concorrentes enfrentam ainda o desafio de forjar facas chifre de cervo(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704053000 -0300" stop="20180704060000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S12E230</title>
+    <desc lang="pt">Neste episódio nossas estrelas do penhor vão conferir um objeto inédito: um assento sanitário do programa do Ônibus Espacial da NASA. E, mais tarde, o avô ocupa Chumlee em algumas missões tolas, mas quem será que vai rir por último?(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704060000 -0300" stop="20180704070000 -0300" channel="The History Channel HD">
+    <title lang="pt">Contato Extraterrestre - S1E7</title>
+    <desc lang="pt">Vários objetos são vistos no México, caindo em Puebla, e aparentemente não são aviões. Além disso, a dúvida cresce na fronteira entre Argentina e Bolívia(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180704070000 -0300" stop="20180704080000 -0300" channel="The History Channel HD">
+    <title lang="pt">Super Humanos E7</title>
+    <desc lang="pt">Gaby Castilho é uma desportista perfeita, consegue montar em uma bicicleta por uma quantidade de horas que para outros seria absolutamente impossível. Cláudio Luvizzotti é dono de uma memória que desafia tudo o que conhecemos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180704080000 -0300" stop="20180704083000 -0300" channel="The History Channel HD">
+    <title lang="pt">Duelo de Craques - S1E4</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180704083000 -0300" stop="20180704090000 -0300" channel="The History Channel HD">
+    <title lang="pt">Duelo de Craques - S1E3</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180704090000 -0300" stop="20180704093000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S12E230</title>
+    <desc lang="pt">Neste episódio nossas estrelas do penhor vão conferir um objeto inédito: um assento sanitário do programa do Ônibus Espacial da NASA. E, mais tarde, o avô ocupa Chumlee em algumas missões tolas, mas quem será que vai rir por último?(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704093000 -0300" stop="20180704100000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S12E240</title>
+    <desc lang="pt">Nossas estrelas do penhor checam uma Honda Pilot ATV. Rick e Chumlee vão receber uma foto autografada rara dos Rolling Stones. E mais tarde, quando Chumlee traz seu peixinho de estimação para ficar na loja, o avô faz de tudo para se livrar dele(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704100000 -0300" stop="20180704110000 -0300" channel="The History Channel HD">
+    <title lang="pt">Desafio Sob Fogo - S4E1</title>
+    <desc lang="pt">Pela primeira vez, a competição será juiz contra juiz. Os quatro juízes vão escolher um ferreiro para representá-los na batalha final pela supremacia. Os ferreiros vão ter que usar aço das ruas da cidade de Nova York para criar uma lâmina(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704110000 -0300" stop="20180704120000 -0300" channel="The History Channel HD">
+    <title lang="pt">Desafio Sob Fogo - S4E2</title>
+    <desc lang="pt">Quatro participantes precisam buscar aço de um antigo clube de ouro para forjar suas armas. Em uma corrida contra o relógio e usando métodos não convencionais, dois concorrentes enfrentam ainda o desafio de forjar facas chifre de cervo(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704120000 -0300" stop="20180704130000 -0300" channel="The History Channel HD">
+    <title lang="pt">Contato Extraterrestre - S1E7</title>
+    <desc lang="pt">Vários objetos são vistos no México, caindo em Puebla, e aparentemente não são aviões. Além disso, a dúvida cresce na fronteira entre Argentina e Bolívia(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180704130000 -0300" stop="20180704140000 -0300" channel="The History Channel HD">
+    <title lang="pt">Super Humanos E7</title>
+    <desc lang="pt">Gaby Castilho é uma desportista perfeita, consegue montar em uma bicicleta por uma quantidade de horas que para outros seria absolutamente impossível. Cláudio Luvizzotti é dono de uma memória que desafia tudo o que conhecemos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180704140000 -0300" stop="20180704150000 -0300" channel="The History Channel HD">
+    <title lang="pt">Desafio Sob Fogo - S4E1</title>
+    <desc lang="pt">Pela primeira vez, a competição será juiz contra juiz. Os quatro juízes vão escolher um ferreiro para representá-los na batalha final pela supremacia. Os ferreiros vão ter que usar aço das ruas da cidade de Nova York para criar uma lâmina(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704150000 -0300" stop="20180704160000 -0300" channel="The History Channel HD">
+    <title lang="pt">Desafio Sob Fogo - S4E2</title>
+    <desc lang="pt">Quatro participantes precisam buscar aço de um antigo clube de ouro para forjar suas armas. Em uma corrida contra o relógio e usando métodos não convencionais, dois concorrentes enfrentam ainda o desafio de forjar facas chifre de cervo(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704160000 -0300" stop="20180704170000 -0300" channel="The History Channel HD">
+    <title lang="pt">Desafio Sob Fogo - S4E3</title>
+    <desc lang="pt">Os competidores são desafiados desta vez a forjar não uma, mas duas lâminas na primeira rodada. Os ferreiros restantes têm cinco dias para criar uma espada de combate icônica do século XV - a Katzbalger(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704170000 -0300" stop="20180704180000 -0300" channel="The History Channel HD">
+    <title lang="pt">Homens e Armas - S1E5</title>
+    <desc lang="pt">A civilização asteca foi uma das mais avançadas da história, mas também uma das mais sanguinárias no campo de batalha(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704180000 -0300" stop="20180704190000 -0300" channel="The History Channel HD">
+    <title lang="pt">Guia Politicamente Incorreto E1</title>
+    <desc lang="pt">Existia um Brasil antes de 1500? E como existia... Guerras, conquistas, lutas por território. Especialistas mostram animais gigantes que foram extintos pela mão do homem e a forma agressiva com que os índios cuidavam da natureza(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180704190000 -0300" stop="20180704192800 -0300" channel="The History Channel HD">
+    <title lang="pt">Duelo de Craques - S1E5</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180704192800 -0300" stop="20180704195500 -0300" channel="The History Channel HD">
+    <title lang="pt">Duelo de Craques - S1E1</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180704195500 -0300" stop="20180704202300 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S12E265</title>
+    <desc lang="pt">Fique deslumbrado com as estrelas junto com os Pawn Stars quando eles recebem um poema original escrito a mão por Marilyn Monroe. Será que as palavras dela vão deixá-los sem palavras? Depois, um motor-foguete híbrido aparece de repente na loja(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704202300 -0300" stop="20180704205000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito - S12E266</title>
+    <desc lang="pt">Os Pawn Stars examinam um Registro Anual de 1776. Com uma cópia impressa da Declaração da Independência, será que eles vão declarar sua intenção de comprar? Corey checa um conjunto de fichas de jogo vindo da Penitenciária do Estado de Nevada(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704205000 -0300" stop="20180704214500 -0300" channel="The History Channel HD">
+    <title lang="pt">Desafio Sob Fogo - S4E54</title>
+    <desc lang="pt">Quatro dos melhores competidores de todo o mundo competem no primeiro campeonato mundial. Com o orgulho nacional em jogo, cada um deve colocar seu sangue, suor e fogo para criar uma lâmina como sua assinatura(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704214500 -0300" stop="20180704224000 -0300" channel="The History Channel HD">
+    <title lang="pt">O Sócio - S5E2</title>
+    <desc lang="pt">"O Sócio" deve salvar uma empresa de casas pequenas com mais de 1 milhão de dólares em dívidas. Conseguirá mudar a cabeça do dono?(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704224000 -0300" stop="20180704233500 -0300" channel="The History Channel HD">
+    <title lang="pt">Caçando Hitler - S3E22</title>
+    <desc lang="pt">No Uruguai, a equipe encontra provas de um hidroplano que transportava nazistas e, na Argentina, informação sobre a rede Die Spinne(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180704233500 -0300" stop="20180705003000 -0300" channel="The History Channel HD">
+    <title lang="pt">Caçando Hitler - S3E19</title>
+    <desc lang="pt">A equipe visita uma usina hidroelétrica na Noruega onde os Nazistas tentaram desenvolver uma ameaçadora arma nuclear(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
   <programme start="20180702123000 -0300" stop="20180703013000 -0300" channel="H2 HD">
     <title lang="pt">Impérios em Jogo: A América Pré-colombiana</title>
     <desc lang="pt">Os Astecas, os Maias e os Incas reinaram no continente americano com culturas muito avançadas... até a chegada dos espanhóis(n)</desc>
@@ -5089,5 +5903,364 @@
     <category lang="pt">Filme</category>
     <category lang="pt">Comédia</category>
     <country>EUA</country>
+  </programme>
+  <programme start="20180702120000 -0300" stop="20180703021500 -0300" channel="FX HD">
+    <title lang="pt">O Retorno da Múmia</title>
+    <desc lang="pt">Ação, humor e efeitos especiais. Dentro de uma sombria câmara do British Museum de Londres, em 1933, está para renascer uma antiga força do terror(n)</desc>
+    <credits>
+      <director>Stephen Sommers</director>
+      <actor>Brendan Fraser</actor>
+      <actor>Rachel Weisz</actor>
+      <actor>John Hannah</actor>
+      <actor>Arnold Voslog</actor>
+      <actor>Oded Fehr</actor>
+      <actor>Patrícia Velazquez</actor>
+      <actor>Freddie Boath</actor>
+      <actor>Alun Armstrong</actor>
+      <actor>Adewale Akinnuoye-Agbaje</actor>
+      <actor>Shaun Parkes</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180703021500 -0300" stop="20180703024000 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">No Natal, Stan presenteia Steve com uma arma e o garoto involuntariamente mata o Papai Noel(n)</desc>
+    <credits>
+      <director>Bob Bowen</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S7 E8</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180703024000 -0300" stop="20180703031000 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Quando o tintureiro de Peter perde sua camisa branca preferida, as coisas começam a ficar um pouco violentas. Enquanto isso, Brian tenta conseguir um encontro com sua nova amiga Denise mas termina arruinando tudo(n)</desc>
+    <credits>
+      <director>Jerry Langford</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Cheryl Tiegs</actor>
+      <actor>Drew Barrymore</actor>
+    </credits>
+    <episode-num system="onscreen">S10 E16</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180703031000 -0300" stop="20180703033500 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers: As Crianças Fogem</title>
+    <desc lang="pt">Depois de descobrir que tem uma cárie e precisa de tratamento, Louise foge do consultório do dentista e procura refúgio com sua tia Gail(n)</desc>
+    <credits>
+      <director>Boo Hwan Lim</director>
+      <director>Kyoung Hee Lim</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Laura Silverman</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S4 E19</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180703033500 -0300" stop="20180703053500 -0300" channel="FX HD">
+    <title lang="pt">O Exótico Hotel Marigold 2</title>
+    <desc lang="pt">Sonny Kapoor tenta encontrar tempo para expandir os negócios enquanto se preprara para o casamento com Sunaina. O Hotel Marigold tem lotação praticamente esgotada e ele precisa de uma nova propriedade para receber novos hóspedes(n)</desc>
+    <credits>
+      <director>John Madden</director>
+      <actor>Judi Dench</actor>
+      <actor>Maggie Smith</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Dev Patel</actor>
+      <actor>David Strathairn</actor>
+      <actor>Celia Imrie</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180703053500 -0300" stop="20180703070000 -0300" channel="FX HD">
+    <title lang="pt">Drácula - Morto mas feliz</title>
+    <desc lang="pt">Paródia da história de Bram Stoker. Aqui, rico inglês é atacado pelo Conde Drácula, e Van Helsing entra em cena para salvar todos e garantir a maior confusão(n)</desc>
+    <credits>
+      <director>Mel Brooks</director>
+      <actor>Leslie Nielsen</actor>
+      <actor>Mel Brooks</actor>
+      <actor>Peter MacNicol</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180703070000 -0300" stop="20180703073000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180703073000 -0300" stop="20180703080000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180703080000 -0300" stop="20180703083000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180703083000 -0300" stop="20180703090000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180703090000 -0300" stop="20180703100000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180703100000 -0300" stop="20180703112500 -0300" channel="FX HD">
+    <title lang="pt">Sniper: Special Ops</title>
+    <desc lang="pt">Uma força militar de Operações Especiais liderada pelo franco atirador Jake Chandler é enviada a uma remota vila no Afeganistão para extrair um senador americano sequestrado pelo Taliban(n)</desc>
+    <credits>
+      <director>Fred Olen Ray</director>
+      <actor>Rob Van Dam</actor>
+      <actor>Steven Seagal</actor>
+      <actor>Tim Abell</actor>
+      <actor>Charlene Amoia</actor>
+      <actor>Daniel Booko</actor>
+      <actor>Jason-Shane Scott</actor>
+      <actor>Anthony Batarse</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180703112500 -0300" stop="20180703115000 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Quando Roger lança um gás letal dentro da casa da família Smith, todos têm que se mudar para um hotel até que a fumaça se dissipe. Sem tarefas domésticas para fazer, Francine não sabe como gastar seu tempo com ela mesma(n)</desc>
+    <credits>
+      <director>Rodney Clouden</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Will Forte</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S7 E9</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180703115000 -0300" stop="20180703121500 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Quando Stan e Francine começam a sair com um casal de aventureiros, sua vida social toma impulso e rapidamente se dão conta que não podem seguir com seus audazes novos amigos e armam um plano para tranquilizá-lo de uma vez(n)</desc>
+    <credits>
+      <director>Pam Cooke</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Hector Elizondo</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S7 E10</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180703121500 -0300" stop="20180703124500 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Quando o Major West se casa com a irmã de Lois, Carol, eles se mudam para a casa dos Griffin para ser uma grande e feliz família(n)</desc>
+    <credits>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Adam West</actor>
+    </credits>
+    <episode-num system="onscreen">S10 E17</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180703124500 -0300" stop="20180704011000 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers: Gene It On</title>
+    <desc lang="pt">Tina decide tentar entrar para a equipe de animadoras de torcida, mas na realidade é Gene quem é notado na multidão por conta de seu ânimo e suas habilidades como torcedor(n)</desc>
+    <credits>
+      <director>Chris Song</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Laura Silverman</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180704011000 -0300" stop="20180704030000 -0300" channel="FX HD">
+    <title lang="pt">Céu em Chamas</title>
+    <desc lang="pt">Butch e Tom são dois pilotos que recebem uma falsa ordem de explodir um campo abandonado aonde encontram-se vários peritos americanos. Eles então, após o erro, são dispensados de suas funções(n)</desc>
+    <credits>
+      <director>Mario Van Peebles</director>
+      <actor>Rachel Leigh Cook</actor>
+      <actor>Cam Gigandet</actor>
+      <actor>Shane West</actor>
+      <actor>Jacob Vargas</actor>
+      <actor>Jason Gray-Stanford</actor>
+      <actor>Martin Kove</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180704030000 -0300" stop="20180704045000 -0300" channel="FX HD">
+    <title lang="pt">Ladrões</title>
+    <desc lang="pt">Uma quadrilha de roubo a bancos, especializada em operações espetaculares, deve realizar um último trabalho oferecido por um cúmplice em liberdade condicional. Porém, um detetive durão e seu parceiro planejam interceptar o roubo(n)</desc>
+    <credits>
+      <director>John Luessenhop</director>
+      <actor>Michael Ealy</actor>
+      <actor>Matt Dillon</actor>
+      <actor>Hayden Christensen</actor>
+      <actor>Steve Harris</actor>
+      <actor>Johnathon Schaech</actor>
+      <actor>Chris Brown</actor>
+      <actor>Zoe Saldana</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180704045000 -0300" stop="20180704071500 -0300" channel="FX HD">
+    <title lang="pt">Karate Kid</title>
+    <desc lang="pt">Sem amigos numa nova cidade, Dre não tem a quem recorrer exceto o zelador do seu prédio, que é secretamente um mestre do kung fu. Dre percebe que encarar os brigões da turma será a aventura de uma vida(n)</desc>
+    <credits>
+      <director>Harald Zwart</director>
+      <actor>Jaden Smith</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Zhenwei Wang</actor>
+      <actor>Jared Minns</actor>
+      <actor>Rongguang Yu</actor>
+      <actor>Bo Zhang</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180704071500 -0300" stop="20180704085000 -0300" channel="FX HD">
+    <title lang="pt">O Grande Dragão Branco</title>
+    <desc lang="pt">Um mestre em artes marciais vai a Hong Kong participar de um violento torneio de lutas, e investigar o misterioso desaparecimento de um amigo(n)</desc>
+    <credits>
+      <director>Newt Arnold</director>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Donald Gibb</actor>
+      <actor>Leah Ayres</actor>
+      <actor>Norman Burton</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Roy Chiao</actor>
+      <actor>Philip Chan</actor>
+      <actor>Pierre Rafini</actor>
+      <actor>Bolo Yeung</actor>
+      <actor>Lily Leung</actor>
+    </credits>
+    <date>1988</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180704085000 -0300" stop="20180704103000 -0300" channel="FX HD">
+    <title lang="pt">Sou Espião</title>
+    <desc lang="pt">O agente Alex Scott e o campeão mundial de boxe Kelly Robinson se unem para recuperar o sofisticado avião F-22, que caiu nas mãos de um contrabandista(n)</desc>
+    <credits>
+      <director>Betty Thomas</director>
+      <actor>Eddie Murphy</actor>
+      <actor>Owen Wilson</actor>
+      <actor>Famke Janssen</actor>
+      <actor>Malcolm McDowell</actor>
+      <actor>Gary Cole</actor>
+      <actor>Viv Leacock</actor>
+      <actor>Keith Dallas</actor>
+      <actor>Tate Taylor</actor>
+      <actor>Lynda Boyd</actor>
+      <actor>Bill Mondy</actor>
+      <actor>Sugar Ray Leonard</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180704103000 -0300" stop="20180704125500 -0300" channel="FX HD">
+    <title lang="pt">True Lies</title>
+    <desc lang="pt">Agente secreto assume para mulher a identidade de vendedor. Ela envolve-se com a trama obrigando-o a revelar sua verdadeira profissão(n)</desc>
+    <credits>
+      <director>James Cameron</director>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Jamie Lee Curtis</actor>
+      <actor>Tom Arnold</actor>
+      <actor>Bill Paxton</actor>
+      <actor>Charlton Heston</actor>
+      <actor>Tia Carrere</actor>
+      <actor>Eliza Dushku</actor>
+      <actor>Marshall Manesh</actor>
+      <actor>Crystina Wyler</actor>
+    </credits>
+    <date>1994</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180704125500 -0300" stop="20180705023000 -0300" channel="FX HD">
+    <title lang="pt">Eu Sempre Vou Saber O Que Vocês Fizeram no Verão Passado</title>
+    <desc lang="pt">Na celebração de 4 de julho, Colby, sua namorada Amber e seus amigos Zoe, Roger e PJ falam sobre a lenda do pescador que mata adolescentes com um gancho. Porém, após um acidente onde PJ morre, eles fazem um pacto de segredo(n)</desc>
+    <credits>
+      <director>Sylvain White</director>
+      <actor>Brooke Nevin</actor>
+      <actor>David Paetkau</actor>
+      <actor>Torrey DeVitto</actor>
+      <actor>Ben Easter</actor>
+      <actor>Seth Packard</actor>
+      <actor>K.C. Clyde</actor>
+      <actor>Clayton Taylor</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
   </programme>
 </tv>
