@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="The History Channel HD">
     <display-name lang="pt">The History Channel HD</display-name>
@@ -60,9 +60,9 @@
     <display-name lang="pt">Universal Channel HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Warner HD [Brazil]">
-    <display-name lang="pt">Warner HD [Brazil]</display-name>
-    <url>http://www.meuguia.tv</url>
+  <channel id="Warner HD">
+    <display-name lang="pt">Warner HD</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="TNT HD">
     <display-name lang="pt">TNT HD</display-name>
@@ -74,6 +74,10 @@
   </channel>
   <channel id="Telecine Premium HD">
     <display-name lang="pt">Telecine Premium HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Action HD">
+    <display-name lang="pt">Telecine Action HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="Telecine Pipoca HD">
@@ -286,55 +290,55 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801160000 -0300" stop="20180801170000 -0300" channel="The History Channel HD">
+  <programme start="20180801160000 -0300" stop="20180801165500 -0300" channel="The History Channel HD">
     <title lang="pt">Desafio Sob Fogo</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801170000 -0300" stop="20180801175500 -0300" channel="The History Channel HD">
+  <programme start="20180801165500 -0300" stop="20180801174500 -0300" channel="The History Channel HD">
     <title lang="pt">Homens e Armas</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801175500 -0300" stop="20180801182000 -0300" channel="The History Channel HD">
+  <programme start="20180801174500 -0300" stop="20180801181000 -0300" channel="The History Channel HD">
     <title lang="pt">Trato Feito</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801182000 -0300" stop="20180801191500 -0300" channel="The History Channel HD">
+  <programme start="20180801181000 -0300" stop="20180801191000 -0300" channel="The History Channel HD">
     <title lang="pt">Guia Politicamente Incorreto</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801191500 -0300" stop="20180801194000 -0300" channel="The History Channel HD">
+  <programme start="20180801191000 -0300" stop="20180801193200 -0300" channel="The History Channel HD">
     <title lang="pt">Trato Feito</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801194000 -0300" stop="20180801200500 -0300" channel="The History Channel HD">
+  <programme start="20180801193200 -0300" stop="20180801195500 -0300" channel="The History Channel HD">
     <title lang="pt">Trato Feito</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801200500 -0300" stop="20180801203000 -0300" channel="The History Channel HD">
+  <programme start="20180801195500 -0300" stop="20180801202300 -0300" channel="The History Channel HD">
     <title lang="pt">Trato Feito</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801203000 -0300" stop="20180801205500 -0300" channel="The History Channel HD">
+  <programme start="20180801202300 -0300" stop="20180801205000 -0300" channel="The History Channel HD">
     <title lang="pt">Trato Feito</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801205500 -0300" stop="20180801214500 -0300" channel="The History Channel HD">
+  <programme start="20180801205000 -0300" stop="20180801214500 -0300" channel="The History Channel HD">
     <title lang="pt">Desafio Sob Fogo</title>
     <star-rating system="BR">
       <value>1.0</value>
@@ -950,37 +954,38 @@
     </star-rating>
   </programme>
   <programme start="20180801004700 -0300" stop="20180801014100 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
-    <star-rating system="BR">
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180801014100 -0300" stop="20180801023500 -0300" channel="Discovery Channel HD">
     <title lang="pt">Menu Selvagem</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
+  <programme start="20180801014100 -0300" stop="20180801023500 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Mestres da Sobrevivência: O Desafio</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
   <programme start="20180801023500 -0300" stop="20180801032700 -0300" channel="Discovery Channel HD">
-    <title lang="pt">À Prova de Tudo</title>
+    <title lang="pt">Largados e Pelados</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
   <programme start="20180801032700 -0300" stop="20180801041600 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Eu, Ela e o Fim do Mundo</title>
+    <title lang="pt">Largados e Pelados: A Tribo</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
   <programme start="20180801041600 -0300" stop="20180801050500 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Casal Selvagem</title>
+    <title lang="pt">Febre do Ouro</title>
+    <sub-title lang="pt">O Desafio de Parker</sub-title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
   <programme start="20180801050500 -0300" stop="20180801054900 -0300" channel="Discovery Channel HD">
-    <title lang="pt">A Cidade Assombrada</title>
+    <title lang="pt">Manicômios Assombrados</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
@@ -992,72 +997,86 @@
     </star-rating>
   </programme>
   <programme start="20180801064400 -0300" stop="20180801073200 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
-    <star-rating system="BR">
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180801073200 -0300" stop="20180801082000 -0300" channel="Discovery Channel HD">
     <title lang="pt">Menu Selvagem</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
+  <programme start="20180801073200 -0300" stop="20180801082000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Mestres da Sobrevivência: O Desafio</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
   <programme start="20180801082000 -0300" stop="20180801090800 -0300" channel="Discovery Channel HD">
-    <title lang="pt">À Prova de Tudo</title>
+    <title lang="pt">Largados e Pelados</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
   <programme start="20180801090800 -0300" stop="20180801095600 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Eu, Ela e o Fim do Mundo</title>
+    <title lang="pt">Largados e Pelados: A Tribo</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
   <programme start="20180801095600 -0300" stop="20180801104600 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Casal Selvagem</title>
+    <title lang="pt">Febre do Ouro</title>
+    <sub-title lang="pt">O Desafio de Parker</sub-title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801104600 -0300" stop="20180801122300 -0300" channel="Discovery Channel HD">
+  <programme start="20180801104600 -0300" stop="20180801113400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Isolados no Alasca</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801113400 -0300" stop="20180801122300 -0300" channel="Discovery Channel HD">
     <title lang="pt">Febre do Ouro</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
   <programme start="20180801122300 -0300" stop="20180801131200 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
-    <star-rating system="BR">
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180801131200 -0300" stop="20180801140100 -0300" channel="Discovery Channel HD">
     <title lang="pt">Menu Selvagem</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
+  <programme start="20180801131200 -0300" stop="20180801140100 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Mestres da Sobrevivência: O Desafio</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
   <programme start="20180801140100 -0300" stop="20180801144800 -0300" channel="Discovery Channel HD">
-    <title lang="pt">À Prova de Tudo</title>
+    <title lang="pt">Largados e Pelados</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
   <programme start="20180801144800 -0300" stop="20180801153600 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Eu, Ela e o Fim do Mundo</title>
+    <title lang="pt">Largados e Pelados: A Tribo</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
   <programme start="20180801153600 -0300" stop="20180801162400 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Casal Selvagem</title>
+    <title lang="pt">Febre do Ouro</title>
+    <sub-title lang="pt">O Desafio de Parker</sub-title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801162400 -0300" stop="20180801180000 -0300" channel="Discovery Channel HD">
+  <programme start="20180801162400 -0300" stop="20180801171200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">À Prova de Tudo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801171200 -0300" stop="20180801180000 -0300" channel="Discovery Channel HD">
     <title lang="pt">Febre do Ouro</title>
     <star-rating system="BR">
       <value>1.0</value>
@@ -1081,44 +1100,26 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801195200 -0300" stop="20180801204300 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Desafio em Dose Dupla</title>
+  <programme start="20180801195200 -0300" stop="20180801212700 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Quilos Mortais</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801204300 -0300" stop="20180801212700 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Dupla do Barulho</title>
-    <star-rating system="BR">
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180801212700 -0300" stop="20180801221700 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Twin Turbos</title>
-    <star-rating system="BR">
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180801221700 -0300" stop="20180801230700 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Corridas Proibidas: Memphis</title>
+  <programme start="20180801212700 -0300" stop="20180801230700 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Quilos Mortais</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
   <programme start="20180801230700 -0300" stop="20180801235700 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Corridas Proibidas: Reis das Pistas</title>
+    <title lang="pt">Uma Família de Peso</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801235700 -0300" stop="20180802002200 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Top Gear USA</title>
-    <star-rating system="BR">
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180802002200 -0300" stop="20180802004700 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Controle de Fronteiras</title>
+  <programme start="20180801235700 -0300" stop="20180802004700 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Invasores Selvagens</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
@@ -1148,7 +1149,7 @@
     </star-rating>
   </programme>
   <programme start="20180802054900 -0300" stop="20180802064400 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Discovery na Escola: 2111</title>
+    <title lang="pt">Discovery na Escola</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
@@ -1165,14 +1166,8 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180802095600 -0300" stop="20180802102100 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Controle de Fronteiras</title>
-    <star-rating system="BR">
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180802102100 -0300" stop="20180802104600 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Controle de Fronteiras</title>
+  <programme start="20180802095600 -0300" stop="20180802104600 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Invasores Selvagens</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
@@ -1201,14 +1196,8 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180802153600 -0300" stop="20180802160000 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Controle de Fronteiras</title>
-    <star-rating system="BR">
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180802160000 -0300" stop="20180802162400 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Controle de Fronteiras</title>
+  <programme start="20180802153600 -0300" stop="20180802162400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Invasores Selvagens</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
@@ -1268,7 +1257,7 @@
     </star-rating>
   </programme>
   <programme start="20180802230700 -0300" stop="20180802235700 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Operação Resgate: Caverna na Tailândia</title>
+    <title lang="pt">Casal Selvagem</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
@@ -1279,55 +1268,61 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801001000 -0300" stop="20180801010000 -0300" channel="National Geographic HD">
+  <programme start="20180801000400 -0300" stop="20180801005000 -0300" channel="National Geographic HD">
     <title lang="pt">Especial de Mayday! Desastres Aéreos</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801010000 -0300" stop="20180801015000 -0300" channel="National Geographic HD">
+  <programme start="20180801005000 -0300" stop="20180801013600 -0300" channel="National Geographic HD">
     <title lang="pt">Aeroporto de Dubai</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801015000 -0300" stop="20180801024000 -0300" channel="National Geographic HD">
+  <programme start="20180801013600 -0300" stop="20180801022200 -0300" channel="National Geographic HD">
     <title lang="pt">Mayday! Desastres Aéreos</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801024000 -0300" stop="20180801033000 -0300" channel="National Geographic HD">
+  <programme start="20180801022200 -0300" stop="20180801030800 -0300" channel="National Geographic HD">
     <title lang="pt">Pegos Pelo Serviço Secreto</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801033000 -0300" stop="20180801041500 -0300" channel="National Geographic HD">
+  <programme start="20180801030800 -0300" stop="20180801035400 -0300" channel="National Geographic HD">
     <title lang="pt">Aeroporto: São Paulo</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801041500 -0300" stop="20180801050000 -0300" channel="National Geographic HD">
+  <programme start="20180801035400 -0300" stop="20180801043800 -0300" channel="National Geographic HD">
     <title lang="pt">Especial de Mayday! Desastres Aéreos</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801050000 -0300" stop="20180801054500 -0300" channel="National Geographic HD">
+  <programme start="20180801043800 -0300" stop="20180801052500 -0300" channel="National Geographic HD">
     <title lang="pt">Especial de Mayday! Desastres Aéreos</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801054500 -0300" stop="20180801063000 -0300" channel="National Geographic HD">
+  <programme start="20180801052500 -0300" stop="20180801061000 -0300" channel="National Geographic HD">
     <title lang="pt">Especial de Mayday! Desastres Aéreos</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801063000 -0300" stop="20180801100000 -0300" channel="National Geographic HD">
+  <programme start="20180801061000 -0300" stop="20180801063400 -0300" channel="National Geographic HD">
+    <title lang="pt">Verdade ou Mito?</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801063400 -0300" stop="20180801100000 -0300" channel="National Geographic HD">
     <title lang="pt">Verdade ou Mito?</title>
     <star-rating system="BR">
       <value>1.0</value>
@@ -2509,27 +2504,27 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801001500 -0300" stop="20180801020000 -0300" channel="FOX HD">
+  <programme start="20180801000800 -0300" stop="20180801015400 -0300" channel="FOX HD">
     <title lang="pt">O Dia em que a Terra Parou</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801020000 -0300" stop="20180801043000 -0300" channel="FOX HD">
+  <programme start="20180801015400 -0300" stop="20180801033900 -0300" channel="FOX HD">
     <title lang="pt">Hook</title>
     <sub-title lang="pt">A Volta do Capitão Gancho</sub-title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801043000 -0300" stop="20180801063000 -0300" channel="FOX HD">
-    <title lang="pt">Projeto Almanaque</title>
+  <programme start="20180801033900 -0300" stop="20180801051600 -0300" channel="FOX HD">
+    <title lang="pt">O Segredo do Lago Ness II</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801063000 -0300" stop="20180801070000 -0300" channel="FOX HD">
-    <title lang="pt">Futurama</title>
+  <programme start="20180801051600 -0300" stop="20180801070000 -0300" channel="FOX HD">
+    <title lang="pt">Projeto Almanaque</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
@@ -2789,44 +2784,50 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801005500 -0300" stop="20180801024500 -0300" channel="FX HD">
+  <programme start="20180801005600 -0300" stop="20180801024500 -0300" channel="FX HD">
     <title lang="pt">O Profissional</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801024500 -0300" stop="20180801031000 -0300" channel="FX HD">
+  <programme start="20180801024500 -0300" stop="20180801030800 -0300" channel="FX HD">
     <title lang="pt">American Dad</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801031000 -0300" stop="20180801033500 -0300" channel="FX HD">
+  <programme start="20180801030800 -0300" stop="20180801033200 -0300" channel="FX HD">
     <title lang="pt">Uma Família da Pesada</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801033500 -0300" stop="20180801040000 -0300" channel="FX HD">
+  <programme start="20180801033200 -0300" stop="20180801035400 -0300" channel="FX HD">
     <title lang="pt">Bob's Burgers</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801040000 -0300" stop="20180801060500 -0300" channel="FX HD">
+  <programme start="20180801035400 -0300" stop="20180801055300 -0300" channel="FX HD">
     <title lang="pt">Em Nome do Rei</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801060500 -0300" stop="20180801063000 -0300" channel="FX HD">
+  <programme start="20180801055300 -0300" stop="20180801061600 -0300" channel="FX HD">
     <title lang="pt">Uma Família da Pesada</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801063000 -0300" stop="20180801070000 -0300" channel="FX HD">
+  <programme start="20180801061600 -0300" stop="20180801063800 -0300" channel="FX HD">
     <title lang="pt">Uma Família da Pesada</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801063800 -0300" stop="20180801070000 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
@@ -3067,74 +3068,80 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801001900 -0300" stop="20180801020300 -0300" channel="Space HD">
+  <programme start="20180801001800 -0300" stop="20180801020900 -0300" channel="Space HD">
     <title lang="pt">Sabotagem</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801020300 -0300" stop="20180801033800 -0300" channel="Space HD">
+  <programme start="20180801020900 -0300" stop="20180801034100 -0300" channel="Space HD">
     <title lang="pt">A Trilha</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801033800 -0300" stop="20180801053300 -0300" channel="Space HD">
+  <programme start="20180801034100 -0300" stop="20180801055100 -0300" channel="Space HD">
     <title lang="pt">Tempestade Branca</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801053300 -0300" stop="20180801060000 -0300" channel="Space HD">
+  <programme start="20180801055100 -0300" stop="20180801060000 -0300" channel="Space HD">
     <title lang="pt">Movie Talk</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801060000 -0300" stop="20180801063300 -0300" channel="Space HD">
+  <programme start="20180801060000 -0300" stop="20180801062000 -0300" channel="Space HD">
     <title lang="pt">Movie Talk</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801063300 -0300" stop="20180801081600 -0300" channel="Space HD">
+  <programme start="20180801062000 -0300" stop="20180801080300 -0300" channel="Space HD">
     <title lang="pt">Beeba Boys</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801081600 -0300" stop="20180801093100 -0300" channel="Space HD">
+  <programme start="20180801080300 -0300" stop="20180801091800 -0300" channel="Space HD">
     <title lang="pt">Quase Humano</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801093100 -0300" stop="20180801112200 -0300" channel="Space HD">
+  <programme start="20180801091800 -0300" stop="20180801110900 -0300" channel="Space HD">
     <title lang="pt">A Oitava Página</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801112200 -0300" stop="20180801130300 -0300" channel="Space HD">
+  <programme start="20180801110900 -0300" stop="20180801125000 -0300" channel="Space HD">
     <title lang="pt">A Trilha</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801130300 -0300" stop="20180801145200 -0300" channel="Space HD">
+  <programme start="20180801125000 -0300" stop="20180801143900 -0300" channel="Space HD">
     <title lang="pt">Trovão Negro</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801145200 -0300" stop="20180801165400 -0300" channel="Space HD">
+  <programme start="20180801143900 -0300" stop="20180801164100 -0300" channel="Space HD">
     <title lang="pt">Colateral</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801165400 -0300" stop="20180801182300 -0300" channel="Space HD">
+  <programme start="20180801164100 -0300" stop="20180801181000 -0300" channel="Space HD">
     <title lang="pt">Resgate em Alta Velocidade</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801181000 -0300" stop="20180801182300 -0300" channel="Space HD">
+    <title lang="pt">Conte Até 10</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
@@ -4973,25 +4980,460 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801003000 -0300" stop="20180801022700 -0300" channel="TNT HD">
+  <programme start="20180801013800 -0300" stop="20180801033600 -0300" channel="Warner HD">
+    <title lang="pt">A Onda dos Sonhos 2</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801033600 -0300" stop="20180801042600 -0300" channel="Warner HD">
+    <title lang="pt">O Truque de Black</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801042600 -0300" stop="20180801045100 -0300" channel="Warner HD">
+    <title lang="pt">Mom</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801045100 -0300" stop="20180801051600 -0300" channel="Warner HD">
+    <title lang="pt">Powerless</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801051600 -0300" stop="20180801054000 -0300" channel="Warner HD">
+    <title lang="pt">Friends</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801054000 -0300" stop="20180801060000 -0300" channel="Warner HD">
+    <title lang="pt">Friends</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801060000 -0300" stop="20180801064700 -0300" channel="Warner HD">
+    <title lang="pt">Arrow</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801064700 -0300" stop="20180801071000 -0300" channel="Warner HD">
+    <title lang="pt">Comédias Warner</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801071000 -0300" stop="20180801073300 -0300" channel="Warner HD">
+    <title lang="pt">The Middle</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801073300 -0300" stop="20180801075600 -0300" channel="Warner HD">
+    <title lang="pt">The Middle</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801075600 -0300" stop="20180801081900 -0300" channel="Warner HD">
+    <title lang="pt">The Middle</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801081900 -0300" stop="20180801084400 -0300" channel="Warner HD">
+    <title lang="pt">Friends</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801084400 -0300" stop="20180801090900 -0300" channel="Warner HD">
+    <title lang="pt">Friends</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801090900 -0300" stop="20180801093300 -0300" channel="Warner HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801093300 -0300" stop="20180801095600 -0300" channel="Warner HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801095600 -0300" stop="20180801101900 -0300" channel="Warner HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801101900 -0300" stop="20180801104200 -0300" channel="Warner HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801104200 -0300" stop="20180801124200 -0300" channel="Warner HD">
+    <title lang="pt">Três Vezes Amor</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801124200 -0300" stop="20180801130600 -0300" channel="Warner HD">
+    <title lang="pt">Friends</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801130600 -0300" stop="20180801133100 -0300" channel="Warner HD">
+    <title lang="pt">Friends</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801133100 -0300" stop="20180801135600 -0300" channel="Warner HD">
+    <title lang="pt">The Middle</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801135600 -0300" stop="20180801142100 -0300" channel="Warner HD">
+    <title lang="pt">The Middle</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801142100 -0300" stop="20180801144400 -0300" channel="Warner HD">
+    <title lang="pt">The Middle</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801144400 -0300" stop="20180801150900 -0300" channel="Warner HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801150900 -0300" stop="20180801153200 -0300" channel="Warner HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801153200 -0300" stop="20180801155700 -0300" channel="Warner HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801155700 -0300" stop="20180801162000 -0300" channel="Warner HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801162000 -0300" stop="20180801164400 -0300" channel="Warner HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801164400 -0300" stop="20180801184000 -0300" channel="Warner HD">
+    <title lang="pt">Amizade Colorida</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801184000 -0300" stop="20180801205600 -0300" channel="Warner HD">
+    <title lang="pt">O Destino de Júpiter</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801205600 -0300" stop="20180801212000 -0300" channel="Warner HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801212000 -0300" stop="20180801214200 -0300" channel="Warner HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801214200 -0300" stop="20180801223000 -0300" channel="Warner HD">
+    <title lang="pt">Supernatural</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801223000 -0300" stop="20180802003400 -0300" channel="Warner HD">
+    <title lang="pt">Príncipe da Pérsia</title>
+    <sub-title lang="pt">As Areias do Tempo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802003400 -0300" stop="20180802023000 -0300" channel="Warner HD">
+    <title lang="pt">Te Amarei Para Sempre</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802023000 -0300" stop="20180802025200 -0300" channel="Warner HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802025200 -0300" stop="20180802031400 -0300" channel="Warner HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802031400 -0300" stop="20180802033700 -0300" channel="Warner HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802033700 -0300" stop="20180802040000 -0300" channel="Warner HD">
+    <title lang="pt">The Middle</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802040000 -0300" stop="20180802042300 -0300" channel="Warner HD">
+    <title lang="pt">The Middle</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802042300 -0300" stop="20180802044500 -0300" channel="Warner HD">
+    <title lang="pt">Comédias Warner</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802044500 -0300" stop="20180802050900 -0300" channel="Warner HD">
+    <title lang="pt">Duas Garotas Em Apuros</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802050900 -0300" stop="20180802053400 -0300" channel="Warner HD">
+    <title lang="pt">Friends</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802053400 -0300" stop="20180802060000 -0300" channel="Warner HD">
+    <title lang="pt">Friends</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802060000 -0300" stop="20180802065100 -0300" channel="Warner HD">
+    <title lang="pt">Arrow</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802065100 -0300" stop="20180802071500 -0300" channel="Warner HD">
+    <title lang="pt">Comédias Warner</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802071500 -0300" stop="20180802073900 -0300" channel="Warner HD">
+    <title lang="pt">Kevin pode Esperar</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802073900 -0300" stop="20180802080300 -0300" channel="Warner HD">
+    <title lang="pt">The Middle</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802080300 -0300" stop="20180802082700 -0300" channel="Warner HD">
+    <title lang="pt">The Middle</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802082700 -0300" stop="20180802085100 -0300" channel="Warner HD">
+    <title lang="pt">Friends</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802085100 -0300" stop="20180802091500 -0300" channel="Warner HD">
+    <title lang="pt">Friends</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802091500 -0300" stop="20180802093900 -0300" channel="Warner HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802093900 -0300" stop="20180802100300 -0300" channel="Warner HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802100300 -0300" stop="20180802102700 -0300" channel="Warner HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802102700 -0300" stop="20180802105100 -0300" channel="Warner HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802105100 -0300" stop="20180802124600 -0300" channel="Warner HD">
+    <title lang="pt">Amizade Colorida</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802124600 -0300" stop="20180802131000 -0300" channel="Warner HD">
+    <title lang="pt">Friends</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802131000 -0300" stop="20180802133600 -0300" channel="Warner HD">
+    <title lang="pt">Friends</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802133600 -0300" stop="20180802140000 -0300" channel="Warner HD">
+    <title lang="pt">Kevin pode Esperar</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802140000 -0300" stop="20180802142600 -0300" channel="Warner HD">
+    <title lang="pt">The Middle</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802142600 -0300" stop="20180802145100 -0300" channel="Warner HD">
+    <title lang="pt">The Middle</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802145100 -0300" stop="20180802151500 -0300" channel="Warner HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802151500 -0300" stop="20180802153900 -0300" channel="Warner HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802153900 -0300" stop="20180802160300 -0300" channel="Warner HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802160300 -0300" stop="20180802162800 -0300" channel="Warner HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802162800 -0300" stop="20180802165200 -0300" channel="Warner HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802165200 -0300" stop="20180802185600 -0300" channel="Warner HD">
+    <title lang="pt">Príncipe da Pérsia</title>
+    <sub-title lang="pt">As Areias do Tempo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802185600 -0300" stop="20180802205500 -0300" channel="Warner HD">
+    <title lang="pt">O Aprendiz de Feiticeiro</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802205500 -0300" stop="20180802212100 -0300" channel="Warner HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802212100 -0300" stop="20180802214200 -0300" channel="Warner HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802214200 -0300" stop="20180802223000 -0300" channel="Warner HD">
+    <title lang="pt">Supernatural</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802223000 -0300" stop="20180803000300 -0300" channel="Warner HD">
+    <title lang="pt">Homens da Pátria</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801002700 -0300" stop="20180801021400 -0300" channel="TNT HD">
     <title lang="pt">Contrabando</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801022700 -0300" stop="20180801042800 -0300" channel="TNT HD">
+  <programme start="20180801021400 -0300" stop="20180801041600 -0300" channel="TNT HD">
     <title lang="pt">Constantine</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801042800 -0300" stop="20180801060000 -0300" channel="TNT HD">
-    <title lang="pt">American Pie: O Reencontro</title>
+  <programme start="20180801041600 -0300" stop="20180801054600 -0300" channel="TNT HD">
+    <title lang="pt">Torrente 2</title>
+    <sub-title lang="pt">Missão Marbella</sub-title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180801060000 -0300" stop="20180801061400 -0300" channel="TNT HD">
+  <programme start="20180801054600 -0300" stop="20180801061400 -0300" channel="TNT HD">
     <title lang="pt">Hollywood One on One</title>
     <star-rating system="BR">
       <value>1.0</value>
@@ -5721,6 +6163,159 @@
       <value>1.0</value>
     </star-rating>
   </programme>
+  <programme start="20180801014000 -0300" stop="20180801034000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Soldado Universal: Juízo Final</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801034000 -0300" stop="20180801045500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Prazer entre Amigos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801045500 -0300" stop="20180801071500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Mudança no Jogo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801071500 -0300" stop="20180801084500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Voo 7500</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801084500 -0300" stop="20180801110000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Jason Bourne</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801110000 -0300" stop="20180801123500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Busca Explosiva</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801123500 -0300" stop="20180801150000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Vingadores: Era de Ultron</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801150000 -0300" stop="20180801175000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Avatar</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801175000 -0300" stop="20180801195500 -0300" channel="Telecine Action HD">
+    <title lang="pt">3 Dias para Matar</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801195500 -0300" stop="20180801220000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Thor</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801220000 -0300" stop="20180802000000 -0300" channel="Telecine Action HD">
+    <title lang="pt">As Tartarugas Ninja: Fora das Sombras</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802000000 -0300" stop="20180802015000 -0300" channel="Telecine Action HD">
+    <title lang="pt">O Chamado 3</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802015000 -0300" stop="20180802034500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Doce Vingança 2</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802034500 -0300" stop="20180802051500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Bikini Jones e o Templo de Eros</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802051500 -0300" stop="20180802064500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Faces do Medo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802064500 -0300" stop="20180802083000 -0300" channel="Telecine Action HD">
+    <title lang="pt">O Justiceiro: Estrada do Caos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802083000 -0300" stop="20180802102000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Solomon Kane</title>
+    <sub-title lang="pt">O Caçador de Demônios</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802102000 -0300" stop="20180802121500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Marcados para Morrer</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802121500 -0300" stop="20180802140000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Risco Máximo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802140000 -0300" stop="20180802155500 -0300" channel="Telecine Action HD">
+    <title lang="pt">O Ilusionista</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802155500 -0300" stop="20180802181500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Velozes &amp; Furiosos 5</title>
+    <sub-title lang="pt">Operação Rio</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802181500 -0300" stop="20180802200000 -0300" channel="Telecine Action HD">
+    <title lang="pt">O Caseiro</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802200000 -0300" stop="20180802220000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Sem Escalas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802220000 -0300" stop="20180802234500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Adrenalina</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802234500 -0300" stop="20180803020500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Tombstone</title>
+    <sub-title lang="pt">A Justiça está Chegando</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
   <programme start="20180801002000 -0300" stop="20180801020000 -0300" channel="Telecine Pipoca HD">
     <title lang="pt">O Culto de Chucky</title>
     <star-rating system="BR">
@@ -6171,6 +6766,198 @@
   </programme>
   <programme start="20180802220000 -0300" stop="20180803000000 -0300" channel="Telecine Touch HD">
     <title lang="pt">Mamma Mia!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801002000 -0300" stop="20180801012500 -0300" channel="HBO HD">
+    <title lang="pt">Succession</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801012500 -0300" stop="20180801020000 -0300" channel="HBO HD">
+    <title lang="pt">Vice</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801020000 -0300" stop="20180801035800 -0300" channel="HBO HD">
+    <title lang="pt">Passe Livre</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801035800 -0300" stop="20180801045500 -0300" channel="HBO HD">
+    <title lang="pt">Fale e Vote</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801045500 -0300" stop="20180801063000 -0300" channel="HBO HD">
+    <title lang="pt">Batman e Arlequina</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801063000 -0300" stop="20180801075000 -0300" channel="HBO HD">
+    <title lang="pt">Divisão de Classes</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801075000 -0300" stop="20180801094500 -0300" channel="HBO HD">
+    <title lang="pt">Além da Morte</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801094500 -0300" stop="20180801115000 -0300" channel="HBO HD">
+    <title lang="pt">Homem-Aranha</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801115000 -0300" stop="20180801143500 -0300" channel="HBO HD">
+    <title lang="pt">Tróia</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801143500 -0300" stop="20180801172500 -0300" channel="HBO HD">
+    <title lang="pt">Blade Runner 2049</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801172500 -0300" stop="20180801175000 -0300" channel="HBO HD">
+    <title lang="pt">Especial Sr. Avila: A Morte Tambem Tem Um Fim Vr Brazil</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801175000 -0300" stop="20180801195000 -0300" channel="HBO HD">
+    <title lang="pt">Além da Morte</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801195000 -0300" stop="20180801210000 -0300" channel="HBO HD">
+    <title lang="pt">Fora do Armário</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801210000 -0300" stop="20180801220000 -0300" channel="HBO HD">
+    <title lang="pt">Succession</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801220000 -0300" stop="20180801230000 -0300" channel="HBO HD">
+    <title lang="pt">Sharp Objects</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801230000 -0300" stop="20180802000000 -0300" channel="HBO HD">
+    <title lang="pt">Jackie</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802000000 -0300" stop="20180802014500 -0300" channel="HBO HD">
+    <title lang="pt">Fahrenheit 451</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802014500 -0300" stop="20180802021500 -0300" channel="HBO HD">
+    <title lang="pt">Especial Sr. Avila: A Morte Tambem Tem Um Fim Vr Brazil</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802021500 -0300" stop="20180802041000 -0300" channel="HBO HD">
+    <title lang="pt">O Duelista</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802041000 -0300" stop="20180802055000 -0300" channel="HBO HD">
+    <title lang="pt">Baltimore Rising</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802055000 -0300" stop="20180802074000 -0300" channel="HBO HD">
+    <title lang="pt">Através da Máscara</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802074000 -0300" stop="20180802093000 -0300" channel="HBO HD">
+    <title lang="pt">Dunkirk</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802093000 -0300" stop="20180802100000 -0300" channel="HBO HD">
+    <title lang="pt">Especial Sr. Avila: A Morte Tambem Tem Um Fim Vr Brazil</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802100000 -0300" stop="20180802115000 -0300" channel="HBO HD">
+    <title lang="pt">Jackie</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802115000 -0300" stop="20180802133500 -0300" channel="HBO HD">
+    <title lang="pt">Invasores</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802133500 -0300" stop="20180802154000 -0300" channel="HBO HD">
+    <title lang="pt">A Chegada</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802154000 -0300" stop="20180802173000 -0300" channel="HBO HD">
+    <title lang="pt">Dunkirk</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802173000 -0300" stop="20180802195500 -0300" channel="HBO HD">
+    <title lang="pt">Até o Último Homem</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802195500 -0300" stop="20180802210000 -0300" channel="HBO HD">
+    <title lang="pt">Fora do Armário</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802210000 -0300" stop="20180802220000 -0300" channel="HBO HD">
+    <title lang="pt">Succession</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802220000 -0300" stop="20180802230500 -0300" channel="HBO HD">
+    <title lang="pt">Sharp Objects</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180802230500 -0300" stop="20180803015500 -0300" channel="HBO HD">
+    <title lang="pt">Blade Runner 2049</title>
     <star-rating system="BR">
       <value>1.0</value>
     </star-rating>
