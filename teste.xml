@@ -1,0 +1,990 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="The History Channel">
+    <display-name lang="pt">The History Channel</display-name>
+    <icon src="http://www.tvmagazine.com.br/imagens/icones/150/historyb.png" />
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Sugestões</title>
+    <title lang="xx">Sugestiones - Ep. 03</title>
+    <desc lang="pt">Depois, vamos falar da criação em massa de uma ideia falsa, ocorrida na Inglaterra em 2005. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country lang="pt">- 2015</country>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Contato Extraterrestre</title>
+    <title lang="xx">Contacto Extraterrestre: 01</title>
+    <desc lang="pt">Será que somos visitados por seres de outros planetas? O que há por trás destes seres, monstros e humanoides avistados? Vamos analisar o mito dos chupa-cabras e seus supostos ataques no Brasil. O que há de verdade por trás destes relatos? &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">- 2014</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Quem dá Mais?</title>
+    <title lang="xx">Storage Wars: 130</title>
+    <desc lang="pt">Todos ficam chocados ao ver Dave Hester voltar para os leilões para valer. Mas nem o Magnata pode evitar que os compradores consigam ótimas unidades em Huntington Beach. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E130</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Quem dá Mais?</title>
+    <title lang="xx">Storage Wars</title>
+    <desc lang="pt">Os compradores estão de volta em Moreno Valley, na Califórnia onde Darrell e Brandon descobrem o doce sabor do sucesso. Mary Padian está em busca do amor... e de depósitos lucrativos. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E128</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Trato Feito</title>
+    <title lang="xx">Pawn Stars</title>
+    <desc lang="pt">Vamos fazer um passeio de luxo com as estrelas do penhor, enquanto testam uma limusine Cadillac Fleetwood de 1962. Rick e Chumlee vão ser apresentados ainda a uma coleção de anéis da Série Mundial dos "Braves" de Atlanta. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E77</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Trato Feito</title>
+    <title lang="xx">Pawn Stars</title>
+    <desc lang="pt">As estrelas do penhor vão dar um zoom em uma foto perdida do famoso fotógrafo americano Ansel Adams. Um garoto virá ate a loja na esperança de vender seu Jaguar XJ6. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E82</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E77</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E130</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E128</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E77</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E82</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E1</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E130</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E128</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E1</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E82</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E133</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E134</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E26</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S12 E263</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S6 E3</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E130</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E128</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E77</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E82</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E77</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E130</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E128</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E77</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E82</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E1</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Sugestões</title>
+    <title lang="xx">Sugestiones - Ep. 03</title>
+    <desc lang="pt">Depois, vamos falar da criação em massa de uma ideia falsa, ocorrida na Inglaterra em 2005. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country lang="pt">- 2015</country>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Contato Extraterrestre</title>
+    <title lang="xx">Contacto Extraterrestre: 01</title>
+    <desc lang="pt">Será que somos visitados por seres de outros planetas? O que há por trás destes seres, monstros e humanoides avistados? Vamos analisar o mito dos chupa-cabras e seus supostos ataques no Brasil. O que há de verdade por trás destes relatos? &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">- 2014</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Quem dá Mais?</title>
+    <title lang="xx">Storage Wars: 130</title>
+    <desc lang="pt">Todos ficam chocados ao ver Dave Hester voltar para os leilões para valer. Mas nem o Magnata pode evitar que os compradores consigam ótimas unidades em Huntington Beach. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E130</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Quem dá Mais?</title>
+    <title lang="xx">Storage Wars</title>
+    <desc lang="pt">Os compradores estão de volta em Moreno Valley, na Califórnia onde Darrell e Brandon descobrem o doce sabor do sucesso. Mary Padian está em busca do amor... e de depósitos lucrativos. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E128</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <title lang="xx">Forged In Fire</title>
+    <desc lang="pt">Ao longo de três temporadas, 26 ferreiros foram sagrados campeões. Neste episódio, os vencedores retornam para provar qual deles é o melhor. Depois de duas rodadas, os dois campeões restantes passarão para a rodada final. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Wil Willis</actor>
+      <actor>J. Neilson</actor>
+      <actor>David Baker</actor>
+      <actor>Doug Marcaida</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <title lang="xx">Forged In Fire</title>
+    <desc lang="pt">Cinco ferreiros novatos vão testar suas habilidades de soldagem. No final, eles devem recriar o Golok de guerra. Quem ganhará? &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Wil Willis</actor>
+      <actor>J. Neilson</actor>
+      <actor>David Baker</actor>
+      <actor>Doug Marcaida</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E82</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E133</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E134</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E26</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S12 E263</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S6 E3</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E130</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E128</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E77</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E82</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E77</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E130</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E128</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E77</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E82</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E1</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E130</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E128</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E1</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E82</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E133</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E134</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E26</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S12 E263</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S6 E3</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E130</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S7 E128</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E77</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S5 E82</episode-num>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <title lang="xx">Forged In Fire</title>
+    <desc lang="pt">Ao longo de três temporadas, 26 ferreiros foram sagrados campeões. Neste episódio, os vencedores retornam para provar qual deles é o melhor. Depois de duas rodadas, os dois campeões restantes passarão para a rodada final. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Wil Willis</actor>
+      <actor>J. Neilson</actor>
+      <actor>David Baker</actor>
+      <actor>Doug Marcaida</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Six - Esquadrão Antiterrorista</title>
+    <title lang="xx">Six</title>
+    <desc lang="pt">Este especial revive o que ocorreu de mais importante na primeira temporada. Quem é o homem pelo qual os SEALs arriscaram suas vidas? &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">- 2018</country>
+    <rating system="ES">
+      <value>Inadequado para menores de 14 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Trato Feito</title>
+    <title lang="xx">Pawn Stars</title>
+    <desc lang="pt">Vamos fazer um passeio de luxo com as estrelas do penhor, enquanto testam uma limusine Cadillac Fleetwood de 1962. Rick e Chumlee vão ser apresentados ainda a uma coleção de anéis da Série Mundial dos "Braves" de Atlanta. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E77</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Sugestões</title>
+    <title lang="xx">Sugestiones - Ep. 03</title>
+    <desc lang="pt">Depois, vamos falar da criação em massa de uma ideia falsa, ocorrida na Inglaterra em 2005. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country lang="pt">- 2015</country>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Contato Extraterrestre</title>
+    <title lang="xx">Contacto Extraterrestre: 01</title>
+    <desc lang="pt">Será que somos visitados por seres de outros planetas? O que há por trás destes seres, monstros e humanoides avistados? Vamos analisar o mito dos chupa-cabras e seus supostos ataques no Brasil. O que há de verdade por trás destes relatos? &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">- 2014</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Quem dá Mais?</title>
+    <title lang="xx">Storage Wars: 130</title>
+    <desc lang="pt">Todos ficam chocados ao ver Dave Hester voltar para os leilões para valer. Mas nem o Magnata pode evitar que os compradores consigam ótimas unidades em Huntington Beach. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E130</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Quem dá Mais?</title>
+    <title lang="xx">Storage Wars</title>
+    <desc lang="pt">Os compradores estão de volta em Moreno Valley, na Califórnia onde Darrell e Brandon descobrem o doce sabor do sucesso. Mary Padian está em busca do amor... e de depósitos lucrativos. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E128</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Trato Feito</title>
+    <title lang="xx">Pawn Stars</title>
+    <desc lang="pt">Vamos fazer um passeio de luxo com as estrelas do penhor, enquanto testam uma limusine Cadillac Fleetwood de 1962. Rick e Chumlee vão ser apresentados ainda a uma coleção de anéis da Série Mundial dos "Braves" de Atlanta. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E77</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Trato Feito</title>
+    <title lang="xx">Pawn Stars</title>
+    <desc lang="pt">As estrelas do penhor vão dar um zoom em uma foto perdida do famoso fotógrafo americano Ansel Adams. Um garoto virá ate a loja na esperança de vender seu Jaguar XJ6. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E82</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <title lang="xx">Forged In Fire</title>
+    <desc lang="pt">Ao longo de três temporadas, 26 ferreiros foram sagrados campeões. Neste episódio, os vencedores retornam para provar qual deles é o melhor. Depois de duas rodadas, os dois campeões restantes passarão para a rodada final. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Wil Willis</actor>
+      <actor>J. Neilson</actor>
+      <actor>David Baker</actor>
+      <actor>Doug Marcaida</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <title lang="xx">Forged In Fire</title>
+    <desc lang="pt">Cinco ferreiros novatos vão testar suas habilidades de soldagem. No final, eles devem recriar o Golok de guerra. Quem ganhará? &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Wil Willis</actor>
+      <actor>J. Neilson</actor>
+      <actor>David Baker</actor>
+      <actor>Doug Marcaida</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Sugestões</title>
+    <title lang="xx">Sugestiones - Ep. 03</title>
+    <desc lang="pt">Depois, vamos falar da criação em massa de uma ideia falsa, ocorrida na Inglaterra em 2005. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country lang="pt">- 2015</country>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Contato Extraterrestre</title>
+    <title lang="xx">Contacto Extraterrestre: 01</title>
+    <desc lang="pt">Será que somos visitados por seres de outros planetas? O que há por trás destes seres, monstros e humanoides avistados? Vamos analisar o mito dos chupa-cabras e seus supostos ataques no Brasil. O que há de verdade por trás destes relatos? &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">- 2014</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Quem dá Mais?</title>
+    <title lang="xx">Storage Wars: 130</title>
+    <desc lang="pt">Todos ficam chocados ao ver Dave Hester voltar para os leilões para valer. Mas nem o Magnata pode evitar que os compradores consigam ótimas unidades em Huntington Beach. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E130</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Quem dá Mais?</title>
+    <title lang="xx">Storage Wars</title>
+    <desc lang="pt">Os compradores estão de volta em Moreno Valley, na Califórnia onde Darrell e Brandon descobrem o doce sabor do sucesso. Mary Padian está em busca do amor... e de depósitos lucrativos. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E128</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <title lang="xx">Forged In Fire</title>
+    <desc lang="pt">Ao longo de três temporadas, 26 ferreiros foram sagrados campeões. Neste episódio, os vencedores retornam para provar qual deles é o melhor. Depois de duas rodadas, os dois campeões restantes passarão para a rodada final. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Wil Willis</actor>
+      <actor>J. Neilson</actor>
+      <actor>David Baker</actor>
+      <actor>Doug Marcaida</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <title lang="xx">Forged In Fire</title>
+    <desc lang="pt">Cinco ferreiros novatos vão testar suas habilidades de soldagem. No final, eles devem recriar o Golok de guerra. Quem ganhará? &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Wil Willis</actor>
+      <actor>J. Neilson</actor>
+      <actor>David Baker</actor>
+      <actor>Doug Marcaida</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Six - Esquadrão Antiterrorista</title>
+    <title lang="xx">Six</title>
+    <desc lang="pt">Este especial revive o que ocorreu de mais importante na primeira temporada. Quem é o homem pelo qual os SEALs arriscaram suas vidas? &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">- 2018</country>
+    <rating system="ES">
+      <value>Inadequado para menores de 14 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Trato Feito</title>
+    <title lang="xx">Pawn Stars</title>
+    <desc lang="pt">As estrelas do penhor vão dar um zoom em uma foto perdida do famoso fotógrafo americano Ansel Adams. Um garoto virá ate a loja na esperança de vender seu Jaguar XJ6. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E82</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Guia Politicamente Incorreto</title>
+    <title lang="xx">Guia Politicamente Incorreto</title>
+    <desc lang="pt">A data de 7 de setembro é mais do que um feriado que curtimos todo ano. Já te contaram muitas vezes que D. Pedro I era garanhão e que estava com diarreia no dia do grito do Ipiranga, mas você sabe como ele tratava sua esposa, Imperatriz Leopoldina? &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">-</country>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Quem dá Mais?</title>
+    <title lang="xx">Storage Wars</title>
+    <desc lang="pt">Dan Dotson volta para os leilões em Costa Mesa, onde os compradores estão de olhos em Dave Hester agindo no seu território. Darrell e Brandon levam o leilão exageradamente a sério. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E133</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Quem dá Mais?</title>
+    <title lang="xx">Storage Wars</title>
+    <desc lang="pt">As tensões e os preços chegam lá em cima nas colinas de Murietta! Uma briga entre Dave e Darrell leva o Jogador a fazer algo drástico enquanto Ivy usa a cabeça e consegue um depósito. Jarrod e Brandi continuam sem sorte! &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Ivy Calvin</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S7 E134</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Trato Feito</title>
+    <title lang="xx">Pawn Stars</title>
+    <desc lang="pt">Os rapazes têm a oportunidade de comprar uma incrível e rara mini motocicleta de corrida Indian de 1970. Rick e seu pai pensam em comprar o sino de um navio de um naufrágio ocorrido em 1600. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Trato Feito</title>
+    <title lang="xx">Pawn Stars</title>
+    <desc lang="pt">Passe um tempinho na cadeia com os Pawn Stars quando eles recebem uma escrivaninha portátil feita pelo Dr. Samuel Mudd. Mudd fez a peça quando estava preso pelo seu envolvimento no assassinato de Lincoln. Será que Rick pode pegá-la para a loja? &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S12 E263</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <title lang="xx">Forged In Fire</title>
+    <desc lang="pt">Os ferreiros trabalham em duplas junto aos seus aprendizes, mas as dificuldades duplicam. Os finalistas recriam a espada chinesa Dao. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Wil Willis</actor>
+      <actor>J. Neilson</actor>
+      <actor>David Baker</actor>
+      <actor>Doug Marcaida</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 12 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Os Caçadores de Ovnis</title>
+    <title lang="xx">UFO Conspiracy</title>
+    <desc lang="pt">Este especial analisa desde os mais famosos relatos sobre OVNIs aos menos conhecidos e que, por algum motivo, foram mantidos em segredo até agora. &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">- 2017</country>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20180803000000 -0300" stop="20180803000000 -0300" channel="The History Channel">
+    <title lang="pt">Alienígenas do Passado</title>
+    <title lang="xx">Ancient Aliens</title>
+    <desc lang="pt">Seres celestiais e gigantes ancestrais: que influência tiveram os alienígenas no passado da Terra? E qual será seu papel no futuro? &lt;!-- 201.22.83.230 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;.(n)</desc>
+    <credits>
+      <actor>Robert Clotworthy</actor>
+      <actor>Giorgio Tsoukalos</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 10 anos</value>
+    </rating>
+  </programme>
+</tv>
