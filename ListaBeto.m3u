@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="https://imgur.com/Ni9XEsW.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/584
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 SD" tvg-logo="https://imgur.com/8oMEs6u.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/500
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://imgur.com/W26d4Fq.png" group-title="CANAIS  | DISCOVERY",DISCOVERY CHANNEL SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/464
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://imgur.com/O9w4VCR.png" group-title="CANAIS  | FILMES E SERIES",STAR CHANNEL SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/481
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://imgur.com/VFUqLY2.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/462
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://i.imgur.com/9iXOzlq.png" group-title="CANAIS  | FILMES E SERIES",MEGAPIX SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/507
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="CANAIS  | FILMES E SERIES",SPACE SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/543
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://imgur.com/VjdttBW.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/555
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://imgur.com/Xdl0FU1.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/551
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://imgur.com/uLUN3d9.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/554
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://imgur.com/9uzg3hN.png" group-title="CANAIS | TELECINE",TELECINE FUN SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/553
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/495
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/499
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS | HBO",HBO FAMILY SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/496
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/497
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS | HBO",HBO SIGNATURE SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/498
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="JOVEM PAN SD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | NOTICIAS",JOVEM PAN SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/76660
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | NOTICIAS",GLOBO NEWS SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/489
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://imgur.com/qqxY8co.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/459
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO SD" tvg-logo="http://ccdnblck.xyz:80/images/910b1f4bc1addc338e1431b1bc94078c.png" group-title="CANAIS | INFANTIL",CARTOONITO SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/454
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://imgur.com/kzBwVLm.png" group-title="CANAIS | INFANTIL",TOONCAST SD
+http://meuplay.shop:80/915035175576PW/178308674541PR/561
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAM SP (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",JOVEM PAM SP (RADIOS)
+http://meuplay.shop:80/915035175576PW/178308674541PR/176
