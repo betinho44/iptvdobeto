@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY" tvg-logo="https://imgur.com/Ni9XEsW.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 
+http://meuplay.shop:80/34876347592pw/8764372492pw/45
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 " tvg-logo="https://imgur.com/8oMEs6u.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 
+http://meuplay.shop:80/34876347592pw/8764372492pw/44
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL " tvg-logo="https://imgur.com/O9w4VCR.png" group-title="CANAIS  | FILMES E SERIES",STAR CHANNEL 
+http://meuplay.shop:80/34876347592pw/8764372492pw/28
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL " tvg-logo="https://imgur.com/VFUqLY2.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL 
+http://meuplay.shop:80/34876347592pw/8764372492pw/11
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE " tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="CANAIS  | FILMES E SERIES",SPACE 
+http://meuplay.shop:80/34876347592pw/8764372492pw/70
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX " tvg-logo="https://i.imgur.com/9iXOzlq.png" group-title="CANAIS  | FILMES E SERIES",MEGAPIX 
+http://meuplay.shop:80/34876347592pw/8764372492pw/51
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM " tvg-logo="https://imgur.com/VjdttBW.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM 
+http://meuplay.shop:80/34876347592pw/8764372492pw/81
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION " tvg-logo="https://imgur.com/Xdl0FU1.png" group-title="CANAIS | TELECINE",TELECINE ACTION 
+http://meuplay.shop:80/34876347592pw/8764372492pw/77
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA " tvg-logo="https://imgur.com/uLUN3d9.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA 
+http://meuplay.shop:80/34876347592pw/8764372492pw/80
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN " tvg-logo="https://imgur.com/9uzg3hN.png" group-title="CANAIS | TELECINE",TELECINE FUN 
+http://meuplay.shop:80/34876347592pw/8764372492pw/79
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO " tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO 
+http://meuplay.shop:80/34876347592pw/8764372492pw/41
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="JOVEM PAN " tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | NOTICIAS",JOVEM PAN 
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS " tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | NOTICIAS",GLOBO NEWS 
+http://meuplay.shop:80/34876347592pw/8764372492pw/35
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK " tvg-logo="https://imgur.com/qqxY8co.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK 
+http://meuplay.shop:80/34876347592pw/8764372492pw/8
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST " tvg-logo="https://imgur.com/kzBwVLm.png" group-title="CANAIS | INFANTIL",TOONCAST 
+http://meuplay.shop:80/34876347592pw/8764372492pw/124
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAM SP (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",JOVEM PAM SP (RADIOS)
+https://24073.live.streamtheworld.com/JP_SP_FMAAC.aac
